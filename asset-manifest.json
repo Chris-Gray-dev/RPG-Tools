@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rpg-tools/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/rpg-tools/static/js/main.b9b58762.chunk.js",
+    "main.js.map": "/rpg-tools/static/js/main.b9b58762.chunk.js.map",
+    "runtime-main.js": "/rpg-tools/static/js/runtime-main.8f0e46c0.js",
+    "runtime-main.js.map": "/rpg-tools/static/js/runtime-main.8f0e46c0.js.map",
+    "static/js/2.5b50f7f7.chunk.js": "/rpg-tools/static/js/2.5b50f7f7.chunk.js",
+    "static/js/2.5b50f7f7.chunk.js.map": "/rpg-tools/static/js/2.5b50f7f7.chunk.js.map",
+    "static/js/3.7e35cf72.chunk.js": "/rpg-tools/static/js/3.7e35cf72.chunk.js",
+    "static/js/3.7e35cf72.chunk.js.map": "/rpg-tools/static/js/3.7e35cf72.chunk.js.map",
+    "index.html": "/rpg-tools/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/rpg-tools/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.5b50f7f7.chunk.js.LICENSE.txt": "/rpg-tools/static/js/2.5b50f7f7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rpg-tools/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f0e46c0.js",
+    "static/js/2.5b50f7f7.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.b9b58762.chunk.js"
+  ]
+}
