@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/RPG-Tools/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/RPG-Tools/static/js/main.75a162bb.chunk.js",
-    "main.js.map": "/RPG-Tools/static/js/main.75a162bb.chunk.js.map",
+    "main.js": "/RPG-Tools/static/js/main.b87639a8.chunk.js",
+    "main.js.map": "/RPG-Tools/static/js/main.b87639a8.chunk.js.map",
     "runtime-main.js": "/RPG-Tools/static/js/runtime-main.4ce99196.js",
     "runtime-main.js.map": "/RPG-Tools/static/js/runtime-main.4ce99196.js.map",
     "static/js/2.45b37750.chunk.js": "/RPG-Tools/static/js/2.45b37750.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4ce99196.js",
     "static/js/2.45b37750.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.75a162bb.chunk.js"
+    "static/js/main.b87639a8.chunk.js"
   ]
 }
