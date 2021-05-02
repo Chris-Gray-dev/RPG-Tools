@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import {Roll_Stats} from './RollerLogic';
+import RollButton from './RollButton';
 
 function StatRoller(props)
 {
@@ -11,8 +12,12 @@ function StatRoller(props)
     return(
         <div>
             <h1>Combly Stat Roller</h1>
-            <h2>Stat display</h2>
-            <button>Roll</button> <button>Copy</button>
+            <ul>
+        {stats.map(item => {
+          return <p>{item},[{MODIFIERS[item]}]</p>;
+        })}
+      </ul>
+            <RollButton RollStats={Roll_Stats} SetStats={setStats}/> <button>Copy</button>
             <p>Parameters: ....</p>
         </div>
     )
