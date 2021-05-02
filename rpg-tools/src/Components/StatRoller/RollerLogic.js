@@ -38,17 +38,17 @@ function Is_Array_Valid(array)
 {
     array.sort(function(a, b){return b - a})
     
-    if(array.reduce((a, b) => a + b, 0) < POINT_MIN)
+    if(array.reduce((a, b) => a + b, 0) < POINT_MIN) // 75
     {
         return false
     }
 
-    if(array[array.length-1] > MAX_NEG)
+    if(array[array.length-1] > MAX_NEG) // 9
     {
         return false
     }
 
-    if(array[1] < MIN_POS)
+    if(array[1] < MIN_POS) // 14
     {
         return false 
     }
