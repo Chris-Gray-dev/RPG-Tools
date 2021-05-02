@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/RPG-Tools/static/css/main.1635e87c.chunk.css",
-    "main.js": "/RPG-Tools/static/js/main.b37e1a23.chunk.js",
-    "main.js.map": "/RPG-Tools/static/js/main.b37e1a23.chunk.js.map",
-    "runtime-main.js": "/RPG-Tools/static/js/runtime-main.3d0de0df.js",
-    "runtime-main.js.map": "/RPG-Tools/static/js/runtime-main.3d0de0df.js.map",
+    "main.js": "/RPG-Tools/static/js/main.1b2f7547.chunk.js",
+    "main.js.map": "/RPG-Tools/static/js/main.1b2f7547.chunk.js.map",
+    "runtime-main.js": "/RPG-Tools/static/js/runtime-main.c64fecb5.js",
+    "runtime-main.js.map": "/RPG-Tools/static/js/runtime-main.c64fecb5.js.map",
     "static/css/2.dc8bca60.chunk.css": "/RPG-Tools/static/css/2.dc8bca60.chunk.css",
     "static/js/2.b196e8ee.chunk.js": "/RPG-Tools/static/js/2.b196e8ee.chunk.js",
     "static/js/2.b196e8ee.chunk.js.map": "/RPG-Tools/static/js/2.b196e8ee.chunk.js.map",
-    "static/js/3.6b70b25e.chunk.js": "/RPG-Tools/static/js/3.6b70b25e.chunk.js",
-    "static/js/3.6b70b25e.chunk.js.map": "/RPG-Tools/static/js/3.6b70b25e.chunk.js.map",
     "index.html": "/RPG-Tools/index.html",
     "static/css/2.dc8bca60.chunk.css.map": "/RPG-Tools/static/css/2.dc8bca60.chunk.css.map",
     "static/css/main.1635e87c.chunk.css.map": "/RPG-Tools/static/css/main.1635e87c.chunk.css.map",
@@ -17,10 +15,10 @@
     "static/media/index.css": "/RPG-Tools/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d0de0df.js",
+    "static/js/runtime-main.c64fecb5.js",
     "static/css/2.dc8bca60.chunk.css",
     "static/js/2.b196e8ee.chunk.js",
     "static/css/main.1635e87c.chunk.css",
-    "static/js/main.b37e1a23.chunk.js"
+    "static/js/main.1b2f7547.chunk.js"
   ]
 }
