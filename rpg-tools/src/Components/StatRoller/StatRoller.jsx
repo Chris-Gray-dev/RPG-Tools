@@ -9,6 +9,7 @@ function StatRoller(props)
     var MODIFIERS = [null,'-5','-4','-4','-3','-3','-2','-2','-1','-1','0','0','+1','+1','+2','+2','+3','+3','+4','+4','+5']
 
     const[stats, setStats] = useState([null,null,null,null,null,null])
+    const[rolling,setRolling] = useState(false)
 
     return(
         <div>
@@ -18,7 +19,7 @@ function StatRoller(props)
           return <p>{item},[{MODIFIERS[item]}]</p>;
         })}
       </ul>
-            <RollButton RollStats={Roll_Stats} SetStats={setStats}/> <CopyButton Stats={stats} Modifiers={MODIFIERS}/>
+            <RollButton RollStats={Roll_Stats} SetStats={setStats} SetRolling={setRolling} Enabled={!rolling}/> <CopyButton Stats={stats} Modifiers={MODIFIERS}/>
             <p>Parameters: ....</p>
         </div>
     )
